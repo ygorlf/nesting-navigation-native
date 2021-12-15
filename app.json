@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "nesting-navigation",
+    "slug": "nesting-navigation",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "nesting-navigation"
+}
